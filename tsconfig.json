@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "downlevelIteration": true,
+      "target": "es6",
+      "module": "commonjs",
+      "sourceMap": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "removeComments": true,
+      "noImplicitAny": false,
+      "skipLibCheck": true,
+      "typeRoots": [ "node_modules/@types" ],
+      "outDir": "release"
+    }
+  }
+  

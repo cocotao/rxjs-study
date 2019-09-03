@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-study",
+  "version": "1.0.0",
+  "description": "rxjs study",
+  "scripts": {
+    "start": "tsc && node release/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc",
+    "build": "tsc --build tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  }
+}
